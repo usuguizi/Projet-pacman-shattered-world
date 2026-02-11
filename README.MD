@@ -34,3 +34,8 @@ Le concept "Shattered World" repose sur plusieurs mondes inspirés de différent
 
 [Voir la démo complète](media/demo.mp4)
 
+
+## 📄 Rapport
+
+➡️ [Consulter le rapport complet (PDF)](rapportPacman.pdf)
+
